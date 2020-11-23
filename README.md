@@ -3,7 +3,7 @@
 
 ## Final result :
 
-https://simple-movie-app-react.herokuapp.com/
+https://umakiran-simple-movie-react.herokuapp.com/
 
 ## About
 > Simple movie search application made with React Js.
